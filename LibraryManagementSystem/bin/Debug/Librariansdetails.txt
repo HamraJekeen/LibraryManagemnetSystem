@@ -1,0 +1,1 @@
+L001,lp12,John Gates,1/1/1980 12:00:00 AM,Library St.,20,40

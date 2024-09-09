@@ -1,0 +1,9 @@
+B001,The Art of Programming,John Coder,123456789,False
+B002,Design Patterns,Gang of Four,987654321,False
+B003,The Catcher in the Rye,J.D. Salinger,1235869,False
+B005,kp,il,122,False
+B006,lp,4,25,False
+B007,kl,l,12,False
+B008,kl,2,12,False
+B009,lk,lk,123,False
+B004,kl,kl,1235,False

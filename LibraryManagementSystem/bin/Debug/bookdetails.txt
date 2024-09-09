@@ -1,0 +1,15 @@
+B001,The Art of Programming,John Coder,123456789,True
+B002,Design Patterns,Gang of Four,987654321,True
+B003,The Catcher in the Rye,J.D. Salinger,1235869,True
+B001,John Coder,The Art of Programming,123456789,True
+B002,Gang of Four,Design Patterns,987654321,True
+B003,J.D. Salinger,The Catcher in the Rye,1235869,True
+B001,The Art of Programming,John Coder,123456789,True
+B002,Design Patterns,Gang of Four,987654321,True
+B003,The Catcher in the Rye,J.D. Salinger,1235869,True
+B001,The Art of Programming,John Coder,123456789,True
+B002,Design Patterns,Gang of Four,987654321,True
+B003,The Catcher in the Rye,J.D. Salinger,1235869,True
+B001,The Art of Programming,John Coder,123456789,True
+B002,Design Patterns,Gang of Four,987654321,True
+B003,The Catcher in the Rye,J.D. Salinger,1235869,True
